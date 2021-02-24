@@ -7,6 +7,6 @@
 # • verificatorul poate înregistra un bug, dându-i o denumire si o descriere; imediat dupa
 # înregistrarea bug-ului, toti programatorii vad lista bug-urilor actualizata cu obiectul nou
 # introdus;
-# • programatorul vizualizeaza lista bug-urilor; de asemenea, programatorul poate selecta un bug
+# • programatorul vizualizeaza lista bug-urilor; de asemenea, verificatorul poate selecta un bug
 # din lista si poate declansa un buton prin care declara ca bug-ul a fost eliminat, caz în care bugul
-# este scos din lista tuturor programatorilor.
+# este scos din lista tuturor programatorilor si verificatorilor.
